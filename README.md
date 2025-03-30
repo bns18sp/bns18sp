@@ -2,6 +2,7 @@
 I'm a student learning web development and programming!
 
 ## Languages
+<div style="display: flex; justify-content: center; gap: 10px;">
 <!-- HTML Icon -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML Icon" style="width: 60px; height: 60px; display: flex" />
 <!-- CSS Icon -->
@@ -10,3 +11,4 @@ I'm a student learning web development and programming!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS Icon" style="width: 60px; height: 60px; display: flex" />
 <!-- Python Icon -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Icon" style="width: 60px; height: 60px; display: flex" />
+</div>
