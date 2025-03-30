@@ -3,7 +3,7 @@
 - I'm currently learning **HTML**, **CSS**, **JavaScript** and **Python**!  
 
 ## Languages
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <!-- HTML Icon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML Icon" style="width: 60px; height: 60px; margin: 10px" />
   <!-- CSS Icon -->
@@ -15,7 +15,7 @@
 </div>
 
 ## Libraries & Frameworks
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <!-- React Icon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Icon" style="width: 60px; height: 60px; margin: 10px" />
   <!-- p5.js Icon -->
