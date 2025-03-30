@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @bns18sp
+- Hi, I’m @bns18sp
