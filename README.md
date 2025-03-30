@@ -2,6 +2,7 @@
 I'm a student learning web development and programming!
 
 ## Languages
+<html>
 <head>
   <style>
     img {
@@ -22,3 +23,4 @@ I'm a student learning web development and programming!
     <!-- Python Icon -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </body>
+</html>
