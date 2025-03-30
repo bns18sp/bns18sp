@@ -8,7 +8,7 @@ I'm a student learning web development and programming!
         width: 60px;
         height: 60px;
         margin: 5px;
-        display: flex;
+        display: inline-block;
     }
   </style>
 </head>
