@@ -18,9 +18,6 @@
 <div style="display: flex; justify-content: center;">
   <!-- React Icon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Icon" style="width: 60px; height: 60px; margin: 30px" />
-  <!-- p5.js Icon
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" alt="p5.js Icon" style="width: 60px; height: 60px; margin: 30px" />
-  -->
   <!-- FastAPI Icon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI Icon" style="width: 60px; height: 60px; margin: 30px" />
 </div>
